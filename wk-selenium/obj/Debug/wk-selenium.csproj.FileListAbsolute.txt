@@ -1,0 +1,16 @@
+C:\Users\pcendejas\source\repos\wk-selenium\wk-selenium\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\pcendejas\source\repos\wk-selenium\wk-selenium\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\pcendejas\source\repos\wk-selenium\wk-selenium\bin\Debug\nunit.engine.dll
+C:\Users\pcendejas\source\repos\wk-selenium\wk-selenium\bin\Debug\nunit.engine.api.dll
+C:\Users\pcendejas\source\repos\wk-selenium\wk-selenium\bin\Debug\wk-selenium.dll
+C:\Users\pcendejas\source\repos\wk-selenium\wk-selenium\bin\Debug\wk-selenium.pdb
+C:\Users\pcendejas\source\repos\wk-selenium\wk-selenium\bin\Debug\nunit.framework.dll
+C:\Users\pcendejas\source\repos\wk-selenium\wk-selenium\bin\Debug\WebDriver.dll
+C:\Users\pcendejas\source\repos\wk-selenium\wk-selenium\bin\Debug\nunit.framework.pdb
+C:\Users\pcendejas\source\repos\wk-selenium\wk-selenium\bin\Debug\nunit.framework.xml
+C:\Users\pcendejas\source\repos\wk-selenium\wk-selenium\bin\Debug\WebDriver.xml
+C:\Users\pcendejas\source\repos\wk-selenium\wk-selenium\obj\Debug\wk-selenium.csprojAssemblyReference.cache
+C:\Users\pcendejas\source\repos\wk-selenium\wk-selenium\obj\Debug\wk-selenium.csproj.CoreCompileInputs.cache
+C:\Users\pcendejas\source\repos\wk-selenium\wk-selenium\obj\Debug\wk-selenium.csproj.CopyComplete
+C:\Users\pcendejas\source\repos\wk-selenium\wk-selenium\obj\Debug\wk-selenium.dll
+C:\Users\pcendejas\source\repos\wk-selenium\wk-selenium\obj\Debug\wk-selenium.pdb
